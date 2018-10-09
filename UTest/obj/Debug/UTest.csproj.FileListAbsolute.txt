@@ -1,0 +1,17 @@
+E:\LINQ\CollectionPractice\UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\LINQ\CollectionPractice\UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\LINQ\CollectionPractice\UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\LINQ\CollectionPractice\UTest\bin\Debug\UTest.dll
+E:\LINQ\CollectionPractice\UTest\bin\Debug\UTest.pdb
+E:\LINQ\CollectionPractice\UTest\bin\Debug\CollectionPractice.exe
+E:\LINQ\CollectionPractice\UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\LINQ\CollectionPractice\UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\LINQ\CollectionPractice\UTest\bin\Debug\CollectionPractice.pdb
+E:\LINQ\CollectionPractice\UTest\bin\Debug\CollectionPractice.exe.config
+E:\LINQ\CollectionPractice\UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\LINQ\CollectionPractice\UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\LINQ\CollectionPractice\UTest\obj\Debug\UTest.csprojAssemblyReference.cache
+E:\LINQ\CollectionPractice\UTest\obj\Debug\UTest.csproj.CoreCompileInputs.cache
+E:\LINQ\CollectionPractice\UTest\obj\Debug\UTest.csproj.CopyComplete
+E:\LINQ\CollectionPractice\UTest\obj\Debug\UTest.dll
+E:\LINQ\CollectionPractice\UTest\obj\Debug\UTest.pdb
