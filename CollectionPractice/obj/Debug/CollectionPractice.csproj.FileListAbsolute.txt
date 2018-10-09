@@ -1,0 +1,7 @@
+E:\LINQ\CollectionPractice\CollectionPractice\bin\Debug\CollectionPractice.exe.config
+E:\LINQ\CollectionPractice\CollectionPractice\bin\Debug\CollectionPractice.exe
+E:\LINQ\CollectionPractice\CollectionPractice\bin\Debug\CollectionPractice.pdb
+E:\LINQ\CollectionPractice\CollectionPractice\obj\Debug\CollectionPractice.csproj.CoreCompileInputs.cache
+E:\LINQ\CollectionPractice\CollectionPractice\obj\Debug\CollectionPractice.exe
+E:\LINQ\CollectionPractice\CollectionPractice\obj\Debug\CollectionPractice.pdb
+E:\LINQ\CollectionPractice\CollectionPractice\obj\Debug\CollectionPractice.csprojAssemblyReference.cache
